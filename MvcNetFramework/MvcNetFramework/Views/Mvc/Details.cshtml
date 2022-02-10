@@ -1,0 +1,22 @@
+﻿@model MvcNetFramework.Models.Entities.DemoPerson
+
+<h2>Details</h2>
+
+<div>
+    <h4>Demo Person</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Model.Name
+        </dt>
+
+        <dd>
+            @Model.Remark
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { guid = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

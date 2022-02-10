@@ -1,0 +1,15 @@
+MvcNetFramework/MvcNetFramework.Service/obj/
+MvcNetFramework/MvcNetFramework.Service/bin/
+MvcNetFramework/MvcNetFramework/bin/
+MvcNetFramework/MvcNetFramework/obj/
+MvcNetFramework/packages/
+MvcNetFramework/UnitTestMvcNetFramework/obj/
+MvcNetFramework/UnitTestMvcNetFramework/bin/
+MvcNetFramework/UnitTestMvcNetFramework.Services/obj/
+MvcNetFramework/UnitTestMvcNetFramework.Services/bin/
+MvcNetFramework/UnitTestMvcNetFramework.Databases/obj/
+MvcNetFramework/UnitTestMvcNetFramework.Databases/bin/
+MvcNetFramework/MvcNetFramework.Models/obj/
+MvcNetFramework/MvcNetFramework.Database/bin/
+MvcNetFramework/MvcNetFramework.Database/obj/
+MvcNetFramework/.vs/MvcNetFramework/v16/
